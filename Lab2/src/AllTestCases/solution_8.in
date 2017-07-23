@@ -1,0 +1,30 @@
+---------------------------
+Results for the input graph
+---------------------------
+
+Transmission Range = 2.0 meters.
+
+The GPSR algorithm is successful 26/28 times.
+The average time taken by the GPSR algorithm on successful runs is 41105 nanoseconds.
+
+Dijkstra's algorithm (Min Latency) is successful 28/28 times.
+The average time taken by Dijkstra's algorithm (Min Latency) on successful runs is 119278 nanoseconds.
+
+Dijkstra's algorithm (Min Hops) is successful 28/28 times.
+The average time taken by Dijkstra's algorithm (Min Hops) on successful runs is 84915 nanoseconds.
+
+
+---------------------------
+Results for the input graph
+---------------------------
+
+Transmission Range = 3.0 meters.
+
+The GPSR algorithm is successful 28/28 times.
+The average time taken by the GPSR algorithm on successful runs is 39152 nanoseconds.
+
+Dijkstra's algorithm (Min Latency) is successful 28/28 times.
+The average time taken by Dijkstra's algorithm (Min Latency) on successful runs is 164414 nanoseconds.
+
+Dijkstra's algorithm (Min Hops) is successful 28/28 times.
+The average time taken by Dijkstra's algorithm (Min Hops) on successful runs is 144174 nanoseconds.
